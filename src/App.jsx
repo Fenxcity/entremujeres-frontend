@@ -1,6 +1,6 @@
 import { useState, useRef, useEffect } from "react";
 
-const API_URL = "https://entremujeres-backend.vercel.app/api/chat";
+const API_URL = "/api/chat";
 
 const C = {
   cream: "#F8F4EF", parchment: "#EDE8E0", gold: "#C09A5B",
